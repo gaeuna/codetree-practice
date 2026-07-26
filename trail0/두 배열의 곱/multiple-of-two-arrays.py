@@ -1,5 +1,6 @@
 matrix1 = []
 matrix2 = []
+
 for i in range (3):
     row1 = list(map(int, input().split()))
     matrix1.append(row1)
